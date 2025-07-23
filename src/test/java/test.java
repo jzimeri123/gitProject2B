@@ -6,6 +6,7 @@ public class test {
         System.out.println("line for new commit");
         System.out.println("Another line for third commit");
         System.out.println("Another line for fourth commit");
+        System.out.println("Another line for 5th commit");
     }
 }
-//done working version 4
+//done working version 5 in clone project
