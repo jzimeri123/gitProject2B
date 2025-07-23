@@ -8,6 +8,7 @@ public class test {
         System.out.println("Another line for fourth commit");
         System.out.println("Another line for 5th commit");
         System.out.println();
+        System.out.println("Changes done by Person 2");
     }
 }
-//done working version 7 in clone project
+//done working version 8 in clone project made by person 2
